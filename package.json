@@ -1,0 +1,25 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "A list of algos I want to study",
+  "main": "main.js",
+  "scripts": {
+    "legend": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyilynnnhtwe/algorithms.git"
+  },
+  "keywords": [
+    "algorithms",
+    "datastructures",
+    "problemsolving",
+    "criticalthinking"
+  ],
+  "author": "NyiLynnHtwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyilynnnhtwe/algorithms/issues"
+  },
+  "homepage": "https://github.com/nyilynnnhtwe/algorithms#readme"
+}
